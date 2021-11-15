@@ -78,8 +78,12 @@ Minecraft, but your mouth becomes a weapon!
 # 作者 (Author)
 
 玩法逻辑 (Play logic): @MrKBear
+
 声音检测 (Sound detection): @wzp2-
+
 插件测试 (Plug-in test): @尹蕤呀と日暮里
+
+BUG反馈 (BUG report): @六芒猫
 
 # Message from the author @MrKBear
 如果你要使用此插件制作视频，我默认授权，不过请附上此页面链接，谢谢~
