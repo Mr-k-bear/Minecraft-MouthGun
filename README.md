@@ -83,6 +83,8 @@ Minecraft, but your mouth becomes a weapon!
 
 插件测试 (Plug-in test): @尹蕤呀と日暮里
 
+# 特别感谢 (Special thanks)
+
 BUG反馈 (BUG report): @六芒猫
 
 # Message from the author @MrKBear
